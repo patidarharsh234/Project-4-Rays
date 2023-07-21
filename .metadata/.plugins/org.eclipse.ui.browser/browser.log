@@ -1,0 +1,58 @@
+
+Jun 29, 2023 11:27:44.48 NEW SESSION
+Jun 29, 2023 11:27:44.48 [52676:40156:0629/112744.431:ERROR:device_event_log_impl.cc(222)] [11:27:44.419] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 29, 2023 16:10:16.82 [52676:40156:0629/161016.827:ERROR:device_event_log_impl.cc(222)] [16:10:16.795] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 30, 2023 10:23:28.74 [51076:45600:0630/102328.747:ERROR:device_event_log_impl.cc(222)] [10:23:28.734] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 30, 2023 14:24:54.33 [54036:51288:0630/142454.334:ERROR:device_event_log_impl.cc(222)] [14:24:54.249] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 30, 2023 22:45:09.98 [54036:51288:0630/224509.984:ERROR:device_event_log_impl.cc(222)] [22:45:09.954] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 01, 2023 11:10:14.16 [49100:42276:0701/111014.160:ERROR:device_event_log_impl.cc(222)] [11:10:14.154] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 01, 2023 20:08:31.76 [43624:48164:0701/200831.760:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 01, 2023 20:12:37.22 [43624:48164:0701/201237.218:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jul 10, 2023 12:59:53.03 NEW SESSION
+Jul 10, 2023 12:59:53.03 Opening in existing browser session.
+Jul 10, 2023 16:44:28.98 Opening in existing browser session.
+Jul 10, 2023 17:03:36.83 Opening in existing browser session.
+Jul 10, 2023 18:18:29.30 Opening in existing browser session.
+Jul 10, 2023 18:18:58.92 Opening in existing browser session.
+Jul 10, 2023 18:19:56.41 Opening in existing browser session.
+
+Jul 10, 2023 18:32:35.86 NEW SESSION
+Jul 10, 2023 18:32:35.86 Opening in existing browser session.
+
+Jul 11, 2023 13:01:44.31 NEW SESSION
+Jul 11, 2023 13:01:44.31 [23752:26276:0711/130144.304:ERROR:device_event_log_impl.cc(222)] [13:01:44.300] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 11, 2023 13:29:52.53 [23752:26276:0711/132952.529:ERROR:device_event_log_impl.cc(222)] [13:29:52.501] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 11, 2023 14:25:34.77 [23752:26276:0711/142534.768:ERROR:device_event_log_impl.cc(222)] [14:25:34.751] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 11, 2023 14:31:01.81 [23752:26276:0711/143101.814:ERROR:device_event_log_impl.cc(222)] [14:31:01.814] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 11, 2023 16:20:55.79 Opening in existing browser session.
+Jul 11, 2023 18:27:16.41 [23752:26276:0711/182716.414:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jul 11, 2023 21:48:27.12 Opening in existing browser session.
+Jul 11, 2023 21:48:57.26 Opening in existing browser session.
+Jul 11, 2023 21:50:31.54 Opening in existing browser session.
+Jul 11, 2023 21:51:56.68 Opening in existing browser session.
+Jul 11, 2023 21:53:03.86 Opening in existing browser session.
+Jul 12, 2023 13:47:30.02 Opening in existing browser session.
+
+Jul 13, 2023 08:16:10.81 NEW SESSION
+Jul 13, 2023 08:16:10.81 Opening in existing browser session.
+
+Jul 15, 2023 09:32:47.80 NEW SESSION
+Jul 15, 2023 09:32:47.80 Opening in existing browser session.
+
+Jul 18, 2023 04:57:28.07 NEW SESSION
+Jul 18, 2023 04:57:28.07 Opening in existing browser session.
+Jul 18, 2023 08:14:44.72 Opening in existing browser session.
+
+Jul 20, 2023 13:07:06.18 NEW SESSION
+Jul 20, 2023 13:07:06.18 Opening in existing browser session.
+Jul 20, 2023 21:32:03.57 Opening in existing browser session.
+Jul 20, 2023 21:45:11.54 Opening in existing browser session.
+
+Jul 21, 2023 06:11:44.00 NEW SESSION
+Jul 21, 2023 06:11:44.00 [19372:52284:0721/061144.006:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 21, 2023 06:13:44.01 [19372:52284:0721/061344.013:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 21, 2023 06:15:44.01 [19372:52284:0721/061544.012:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 21, 2023 08:47:16.66 NEW SESSION
+Jul 21, 2023 08:47:16.66 Opening in existing browser session.

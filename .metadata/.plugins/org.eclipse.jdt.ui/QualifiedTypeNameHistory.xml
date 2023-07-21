@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="in.co.pro4.exception.DuplicateRecordException"/>
+    <fullyQualifiedTypeName name="in.co.pro4.utility.DataUtility"/>
+    <fullyQualifiedTypeName name="in.co.pro4.utility.ServletUtility"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="in.co.pro4.utility.DataValidator"/>
+    <fullyQualifiedTypeName name="in.co.pro4.controller.ORSView"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="in.co.pro4.bean.UserBean"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+    <fullyQualifiedTypeName name="in.co.pro4.exception.RecordNotFoundException"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+</qualifiedTypeNameHistroy>
