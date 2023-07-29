@@ -110,8 +110,7 @@ public class LoginCtl extends BaseCtl {
 		UserBean bean = new UserBean();
 
 		bean.setId(DataUtility.getLong(request.getParameter("id")));// get kiya loginctl
-//		String s=(String)request.getParameter("id");
-//		System.out.println("id="+s);
+
 		bean.setLogIn(DataUtility.getString(request.getParameter("login")));
 		bean.setPassword(DataUtility.getString(request.getParameter("password")));
 		
